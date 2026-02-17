@@ -1,14 +1,25 @@
-# chocolate-sales-dashboard-powerbi
+# Chocolate Sales Analytics Dashboard
 
-A full Power BI analytics project visualizing chocolate sales across regions and salespersons. Includes KPI cards, 
-trend analysis , shipment breakdown, profit metrics,and multi-page interactive dashboards using DAX and data
-modeling.
+## Project Overview
 
-## Project Overview📝
+This project presents an **interactive Power BI dashboard** built using a comprehensive chocolate products sales dataset.
 
-Interactive Power BI dashboard built using a comprehensive chocolate products
-sales dataset Provides detailed visual analysis of products, regional performance,
-and overall sales metrics Combines charts, KPIs, and interactive elements for clear operational insights.
+The dashboard delivers detailed visual analysis of:
+- Product performance
+- Regional sales distribution
+- Profitability metrics
+- Overall operational performance
+
+---
+## 👥 Team Project
+
+This dashboard was developed as part of a collaborative team project with:
+- Nusaiba kambal
+- Arwa Hassan
+- Nesreen Adam
+- Afag Mohammed
+
+We worked together across different stages
 
 
 
@@ -16,26 +27,55 @@ and overall sales metrics Combines charts, KPIs, and interactive elements for cl
 <img width="1283" height="719" alt="Image" src="https://github.com/user-attachments/assets/56e2812e-1ad2-4039-adb4-d1a892c64c3e" />
 
 
-## Key Features📋
+### KPI Cards
+Quick performance snapshot including:
+- Total Sales: **$34M**
+- Total Boxes Sold: **2M**
+- Shipments: **6K**
+- Total Profit: **$14M**
 
--KPI Cards: Display total Sales ($34M), Boxes (2M), Shipments (6K), and Profits ($14M) for quick overview
--Product Analysis: Bar charts showing top-selling chocolate products by revenue.
--Regional Distribution: Sales breakdown across Australia, Canada, India, New Zealand, UK, and USA
--Profitability Analysis: Product-wise profit percentages highlighting most profitable items
--Time Series Chart: Monthly sales trends from March 2023 to January 2024
--Dynamic Slicer: Filters dashboard by selected products or regions for interactive exploration
+### Product Analysis
+- Bar charts highlighting top-selling chocolate products by revenue.
+- Product-level performance comparison.
 
-## Skills & Tools Used🛠️
+### Regional Distribution
+Sales breakdown across:
+- Australia  
+- Canada  
+- India  
+- New Zealand  
+- UK  
+- USA  
 
-Power BI for dashboard development and visualization
-Data Modeling & DAX for KPIs and calculated metrics
-Data Cleaning & Transformation to prepare accurate datasets
-Visualization & Dashboard Design for intuitive user experience
+### Profitability Analysis
+- Product-wise profit percentage analysis.
+- Identification of most profitable chocolate products.
 
-## Purpose🎯 
+### Time Series Analysis
+- Monthly sales trends from **March 2023 to January 2024**.
+- Clear visibility of seasonal performance patterns.
 
--Analyze chocolate product demand and sales trends 
--Identify top-performing products by revenue and profitability 
--Track regional sales performance across international markets 
--Support data-driven decision making
--Transform raw sales data into actionable 
+### Dynamic Slicer
+- Interactive filtering by product or region.
+- Enables flexible and customized data exploration.
+
+---
+## Skills & Tools Used
+
+- **Power BI** – Dashboard development & visualization  
+- **Data Modeling & DAX** – KPI calculations & performance metrics  
+- **Data Cleaning & Transformation** – Ensuring data accuracy  
+- **Dashboard Design Principles** – Creating intuitive user experience  
+
+---
+
+## Project Purpose
+
+- Analyze chocolate product demand and sales trends  
+- Identify top-performing products by revenue and profitability  
+- Track regional sales performance across international markets  
+- Support data-driven decision-making  
+- Transform raw sales data into actionable insights
+---
+## 🔗 Live Dashboard
+You can explore the interactive dashboard here:
