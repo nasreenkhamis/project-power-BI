@@ -16,7 +16,7 @@ The dashboard delivers detailed visual analysis of:
 This dashboard was developed as part of a collaborative team project with:
 - Nusaiba kambal
 - Arwa Hassan
-- Nesreen Adam
+- Sahar Hassan
 - Afag Mohammed
 
 We worked together across different stages
