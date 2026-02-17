@@ -78,4 +78,4 @@ Sales breakdown across:
 - Transform raw sales data into actionable insights
 ---
 ## 🔗 Live Dashboard
-You can explore the interactive dashboard here: [View Power BI Report]( https://github.com/nasreenkhamis/project-power-BI/blob/main/Analytics%20Report/project%20of%20sales%201%20-%20Shortcut.lnk power service)
+You can explore the interactive dashboard here: [View Power BI Report](https://github.com/nasreenkhamis/project-power-BI/blob/main/Analytics%20Report/project%20of%20sales%201%20-%20Shortcut.lnk power service)
