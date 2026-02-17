@@ -5,6 +5,8 @@ sales dataset Provides detailed visual analysis of products, regional performanc
 and overall sales metrics Combines charts, KPIs, and interactive elements for clear operational insights.
 
 
+
+
 <img width="1283" height="719" alt="Image" src="https://github.com/user-attachments/assets/56e2812e-1ad2-4039-adb4-d1a892c64c3e" />
 
 
